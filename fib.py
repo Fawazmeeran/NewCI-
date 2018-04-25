@@ -8,4 +8,5 @@ def fib(n):
             
              a,b = b , c
              print(c)
+             Print("lol")
 fib(n)
