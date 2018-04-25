@@ -9,7 +9,7 @@ def fib(n):
              a,b = b , c
              print(c)
 
-	     print("Yejhguhyss")
+	     print("Yess")
 
          
 fib(n)
